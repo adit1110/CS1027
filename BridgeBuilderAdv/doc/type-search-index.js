@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"BridgeBuilderAdv","l":"Engineer"},{"p":"BridgeBuilderAdv","l":"GameBoard"},{"p":"BridgeBuilderAdv","l":"Player"}];updateSearchResults();
